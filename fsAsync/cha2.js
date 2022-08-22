@@ -34,7 +34,7 @@ const fs =require("fs");
 //     console.log("file deleted")
 // })
 
-
-fs.rmdir("./rameez",(err)=>{
-    console.log("folder delete")
-})
+// folder delete
+// fs.rmdir("./rameez",(err)=>{
+//     console.log("folder delete")
+// })
