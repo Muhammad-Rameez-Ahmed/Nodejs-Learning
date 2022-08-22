@@ -1,6 +1,6 @@
-// import chalk from 'chalk'
+import chalk from 'chalk'
 
-// console.log(chalk.green.underline('false'));
+console.log(chalk.red.underline('false'));
 
 // const error = chalk.bold.red;
 // const warning = chalk.hex('#FFA500'); // Orange color
@@ -12,8 +12,7 @@
 
 // const name = 'Sindre';
 // console.log(chalk.green('Hello %s'), name);
-import validator from 'validator';
-// var validator = require('validator');
+import validator from 'validator'; 
 
  console.log(validator.isEmail('ram@zz.com')); 
 
